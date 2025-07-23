@@ -1,12 +1,6 @@
 # Telegram Bot + Google Drive + Supabase Embeddings
 
-
-
-
-
-
-
-
+<img width="960" height="505" alt="Screenshot 2025-06-21 002436" src="https://github.com/user-attachments/assets/67791636-a9cb-4f16-ad78-f9c369c3bc7a" />
 
 ---
 
